@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c458212e-b302-422b-960e-068975ef3c73)# Portfolio Basic Website
+# Portfolio Basic Website
 
 A simple portfolio website to showcase your work, skills, and projects.
 
