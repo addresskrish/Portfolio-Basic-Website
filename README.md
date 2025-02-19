@@ -1,4 +1,4 @@
-# Portfolio Basic Website
+![image](https://github.com/user-attachments/assets/c458212e-b302-422b-960e-068975ef3c73)# Portfolio Basic Website
 
 A simple portfolio website to showcase your work, skills, and projects.
 
@@ -36,6 +36,13 @@ Portfolio-Basic-Website/
    ```
 3. Open `index.html` in a browser to view the portfolio.
 
+## 📱 Demo
+### 💻 Laptop View
+![Laptop Demo](images/Me-1.png)
+
+### 📱 Mobile View
+![Mobile Demo](images/Me-2.png)
+
 ## 📧 Contact
 For any inquiries, reach out via:
 - **GitHub:** [addresskrish](https://github.com/addresskrish)
@@ -43,3 +50,4 @@ For any inquiries, reach out via:
 
 ---
 ⭐ Don't forget to **star** the repo if you like it! 🚀
+
