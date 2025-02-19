@@ -43,6 +43,10 @@ Portfolio-Basic-Website/
 ### 📱 Mobile View
 ![Mobile Demo](images/Me-2.png)
 
+## 🔗 Live Demo
+Check out the live version of the portfolio here:
+[Live Demo](https://addresskrish.github.io/Portfolio-Basic-Website/)
+
 ## 📧 Contact
 For any inquiries, reach out via:
 - **GitHub:** [addresskrish](https://github.com/addresskrish)
